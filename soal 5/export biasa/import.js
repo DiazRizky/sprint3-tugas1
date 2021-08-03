@@ -1,0 +1,1 @@
+import { nama } from "./export";
